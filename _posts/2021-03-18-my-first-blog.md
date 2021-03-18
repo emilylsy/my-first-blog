@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "第一次"
-image: assets/images/001.jpg
+image: assets/images/4.jpg
 featured: true
 ---
 # 科技遇见她
